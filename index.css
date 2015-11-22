@@ -10,9 +10,9 @@ nav {
   display:block;
 }
 nav li {
-  background-color: blue;
+  background-color: black;
   color: white;
-  font-size: 35px;
+  font-size: 25px;
   display: inline;
   list-style: none;/
 }
