@@ -38,6 +38,9 @@ article {
   padding-left: 20px;
   text-align: center;
 }
+article img {
+  margin:10px;
+}
 a {
   color: orange;
   font-weight: bold;
